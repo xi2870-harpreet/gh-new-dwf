@@ -1,0 +1,27 @@
+slug: prod-s
+id: gwlgwmx8uc83
+title: prod-s
+teaser: Use a virtual machine (VM) as a sandbox host
+description: |-
+  # Testing
+
+
+  ### This template shows you how to use a Virtual Machine (VM). VMs can be used when you need more compute and memory or for running Docker containers.
+  ###
+  ### **This track demonstrates how to:**
+  ###   - Provision virtual machine sandbox host using a predefined Compute Engine image
+  ###   - Use the Docker daemon on the sandbox host to build and run container images
+  ###   - Add check and solve scripts
+  ###   - Add simple assets (a Dockerfile) to the sandbox host
+icon: https://cdn.instruqt.com/assets/templates/docker.png
+tags:
+- prod
+owner: instruqt-support
+developers:
+- santosh@instruqt.com
+timelimit: 600
+lab_config:
+  overlay: false
+  width: 50
+  position: left
+checksum: "17290069440046565767"
